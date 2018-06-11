@@ -9,6 +9,17 @@ Although today's browsers are becoming more capable of accommodating for errors 
 
 ## Change Invalid CSS to Valid CSS
 
+<<<<<<< HEAD
+=======
+## Tasks for LearnIDE Environment Users
+
+1. Click the "OPEN IDE" button
+
+## Tasks for Local Environment Users
+
+1. Click the "OPEN" button
+
+>>>>>>> Update per Kellye's feedback
 ## Steps 
 In this lesson, we will be taking the invalid CSS in `css/style.css` and changing it to be valid.
 1. Click the "OPEN" button. 
